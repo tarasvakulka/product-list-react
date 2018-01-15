@@ -1,0 +1,17 @@
+.card .card-image img {
+    height: 220px;
+    width: auto;
+}
+.card-image {
+    display: flex;
+    justify-content: center;
+}
+.card-content {
+    height: 230px;
+}
+.card-content p {
+    margin-top: 5px;
+}
+.flow-text {
+    font-size: 14px;
+}
